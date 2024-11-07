@@ -1,5 +1,9 @@
-| Name                   | Description                       | 
-|------------------------|-----------------------------------|
-| Postman                | REST Client                       |
-| Insomnia               | REST Client                       |
+| Name                   | Description                                                                   | 
+|------------------------|-------------------------------------------------------------------------------|  
+| Postman                | REST Client                                                                   |
+| Insomnia               | REST Client                                                                   |
+| procexp.exe            | Tool for Windows process management                                           |
+| DBeaver                | Database Client                                                               |
+| WinSCP                 | SSH Client - file manager                                                     |
+| mRemoteNG              | SSH Client - terminal                                                         |
 
