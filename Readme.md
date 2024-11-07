@@ -6,4 +6,6 @@
 | DBeaver                | Database Client                                                               |
 | WinSCP                 | SSH Client - file manager                                                     |
 | mRemoteNG              | SSH Client - terminal                                                         |
+| Notepad++              | Notepad                                                                       |
+| 7-Zip                  | Tool for packing and unpacking files                                          |
 
