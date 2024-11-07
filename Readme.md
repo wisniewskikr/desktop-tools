@@ -8,4 +8,7 @@
 | mRemoteNG              | SSH Client - terminal                                                         |
 | Notepad++              | Notepad                                                                       |
 | 7-Zip                  | Tool for packing and unpacking files                                          |
+| KeyStore Explorer      | Tool for management of keys                                                   |
+| Screenpresso           | Tool for screenshots                                                          |
+| SoapUI                 | Soap Client                                                                   |
 
